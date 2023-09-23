@@ -1,4 +1,4 @@
-# Hey there, I'm a Frontend Engineer. | ![](https://komarev.com/ghpvc/?username=RazaALi0786&label=Profile%20views&color=0e75b6&style=flat) <img align="right" alt="GIF" src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="385" height="290" />
+# Hey there, I'm a Frontend Engineer. | ![](https://komarev.com/ghpvc/?username=RazaALi0786&label=Profile%20views&color=0e75b6&style=flat) <img align="right" alt="GIF" src=""https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"" width="385" height="290" />
 # Currently pursuing Bachelors in Computer Science from Integral University, Lucknow, India
 
 - 🚀 Right now, I am trying to gain a good command over React, Web Development and Java.
