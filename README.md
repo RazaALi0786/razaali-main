@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development, etc.**
 
-- 📫 You can reach me at **razaali26296@gmail.com**
+- 📫 You can reach me at **razaaliwork26296@gmail.com**
 
 - ⚡ Fun fact **I love playing games and going to gym because it helps me clear my mind.**
 
