@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-raza-ali-363625222/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="RazaALi0786" height="25" width="25" /></a>
 <p align="left">
-<a href="https://twitter.com/Raza_a_lee" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter-in-alt.svg" alt="RazaALi0786" height="25" width="25" /></a>
+<a href="https://twitter.com/Raza_a_lee" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RazaALi0786" height="25" width="25" /></a>
 
 </p>
 
