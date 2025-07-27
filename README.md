@@ -1,10 +1,10 @@
 # Hey there, I'm a Frontend Engineer. | ![](https://komarev.com/ghpvc/?username=RazaALi0786&label=Profile%20views&color=0e75b6&style=flat) 
 
-# Currently pursuing Bachelors in Computer Science from Integral University, Lucknow, India
+# I am a SDE 1 at Brimo Software Solutions and Did my Bachelors in Computer Science from Integral University, Lucknow, India
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
 
-- 🚀 Right now, I am trying to gain a good command over React, Web Development and Java.
+- 🚀 Right now, I am trying to gain a good command over React, Fast API, Web Development and Java.
 
 - 👯 I’m looking to collaborate with anyone on any project.
 
@@ -13,8 +13,6 @@
 - 📫 You can reach me at **razaaliwork26296@gmail.com**
 
 - ⚡ Fun fact **I love playing games and going to gym because it helps me clear my mind.**
-
-- 📝 [Resume](https://drive.google.com/file/d/1_eCAhFAf1YUuXisLdgyIPgN4R1mDwZZV/view?usp=drive_link)
 
 ## :email: Find me on:
 
